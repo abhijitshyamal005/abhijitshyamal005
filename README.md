@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhijitshyamal005/abhijitshyamal005/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm ABHIJIT SHYAMAL</h1>
-<h3 align="center">MCA STUDENT NIT JSR</h3>
+<h3 align="center">MCA STUDENT, NIT JSR</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **HckerRank problem solving**
